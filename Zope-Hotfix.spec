@@ -1,6 +1,6 @@
 %define 	zope_subname	Hotfix
 Summary:	This hotfix product fixes a security bug in Page Templates on Zope
-Summary(pl.UTF-8):   Ta poprawka naprawia błędy bezpieczeństwa w szablonach stron Zope
+Summary(pl.UTF-8):	Ta poprawka naprawia błędy bezpieczeństwa w szablonach stron Zope
 Name:		Zope-%{zope_subname}
 Version:	050405
 Release:	1
